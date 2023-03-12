@@ -17,8 +17,8 @@ with open(budgetcsv, "r", encoding="utf8") as csvFile:
 
     csvreader = csv.reader(csvFile, delimiter=",")
 
-    # skips the header
-    next(csvreader)
+    # stores the csv header row into 'csv_header'
+    csv_header = next(csvreader)
 
     # the first row read gives us our initial starting month value and net profit/losses
     first_row = next(csvreader)
