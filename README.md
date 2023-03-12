@@ -1,6 +1,6 @@
 # python-challenge
 
-<b>Module 3 Python Challenge</b>
+## Module 3 Python Challenge
 
 For this assignment I had to complete two Python challenges named "PyBank" and "PyPoll"
 
@@ -15,6 +15,7 @@ The challenge was to create a Python script to analyze these records and calcula
 5. The greatest decrease in profits (date and amount) over the entire period
 
 The final results looked like this:
+
 ![financial_analysis](https://user-images.githubusercontent.com/124934770/224527389-fe20a470-8955-4097-9f81-b2c1e9b6e25a.PNG)
 
 The final script prints to the terminal and exports the file as a text file into an "analysis" folder.
@@ -30,6 +31,7 @@ The challenge was to create a Python script to analyze the vote and calculate:
 5. The winner of the election based on popular vote
 
 The final results looked like this:
+
 ![election_results](https://user-images.githubusercontent.com/124934770/224527401-29dd440f-28e3-4c6d-9540-b50cb5e0dc70.PNG)
 
 The final script also prints to the terminal and exports the file as a text file into a seperate "analysis" folder.
