@@ -35,3 +35,5 @@ The final results looked like this:
 ![election_results](https://user-images.githubusercontent.com/124934770/224527401-29dd440f-28e3-4c6d-9540-b50cb5e0dc70.PNG)
 
 The final script also prints to the terminal and exports the file as a text file into a seperate "analysis" folder.
+
+Both scripts also store the header rows into csv_header.
