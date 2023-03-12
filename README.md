@@ -4,7 +4,7 @@
 
 For this assignment I had to complete two Python challenges named "PyBank" and "PyPoll"
 
-For the <b>PyBank</b> challenge I had to create a Python scipt that analyzed the financial records of a company.  Provided was the budget_data.csv dataset that inlcude two columns named "Date" and "Profit/Losses.
+For the <b>PyBank</b> challenge I had to create a Python scipt that analyzed the financial records of a company.  Provided was the budget_data.csv dataset that inlcude two columns named "Date" and "Profit/Losses".
 
 The challenge was to create a Python script to analyze these records and calculate the:
 
@@ -20,7 +20,7 @@ The final results looked like this:
 
 The final script prints to the terminal and exports the file as a text file into an "analysis" folder.
 
-For the scond challenge, <b>PyPoll</b>, I had to create a Python script that analyzed the election results of a small, rural town. I was given a dataset with three columns that included "Voter ID," "County", and "Candidate".
+For the second challenge, <b>PyPoll</b>, I had to create a Python script that analyzed the election results of a small, rural town. I was given a dataset with three columns that included "Voter ID," "County", and "Candidate".
 
 The challenge was to create a Python script to analyze the vote and calculate:
 
